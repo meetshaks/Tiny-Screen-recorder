@@ -1,0 +1,14 @@
+﻿V1/ffmpeg.exe
+V1/Setup.Screen.Capturer.Recorder.v0.13.3.exe
+V2/dist/
+V2/build/
+V2/setup.exe
+V2/ffmpeg.exe
+V2/Setup.Screen.Capturer.Recorder.v0.13.3.exe
+V3/dependency/
+V3_editable/recorder.exe
+V3_editable/dependency/
+V3_editable_to_exe/recorder.exe
+V3_editable_to_exe/dist/
+V3_editable_to_exe/build/
+V3_editable_to_exe/dependency/
